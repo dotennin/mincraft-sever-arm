@@ -1,2 +1,2 @@
 #! /bin/sh
-java -Xms300m -Xmx500m -jar server.jar nogui --port 25565
+java -Xms512M -Xmx768M -jar server.jar nogui
